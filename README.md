@@ -1,8 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Covid Live
 
-## Available Scripts
+### Technology used
 
-In the project directory, you can run:
+React.js
+Material UI
+Firebase
+
+<a target="_blank" href="https://covid-live-1ba62.web.app/">Click here to view project</a>
+
+
+## Video demo
+
+
 
 ### `npm start`
 
